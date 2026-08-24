@@ -1151,6 +1151,12 @@
           "engine_version": "123",
           "status": "unknown",
           "release_date": "2026-08-08"
+        },
+        "19.0": {
+          "engine": "Blink",
+          "engine_version": "123",
+          "status": "unknown",
+          "release_date": "2026-08-24"
         }
       }
     },
@@ -3989,5 +3995,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-22T14:21:51.598Z"
+  "lastUpdated": "2026-08-24T14:42:36.619Z"
 }
